@@ -22,4 +22,4 @@ O ToEvent utilizou os Third Party:
 * firebase;
 * json-2-csv;
 * md5;
-* react;
+* react.
