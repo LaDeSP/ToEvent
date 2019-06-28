@@ -1,0 +1,9 @@
+export const True = true
+export const False = false
+export const Void = undefined
+export const Null = null
+export const InitialInput = ''
+export const Invalid = 'is-invalid'
+export const Valid = 'is-valid'
+export const Nothing = ''
+export const InscriptionType = 'REGISTERED'
