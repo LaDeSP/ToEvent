@@ -2,7 +2,7 @@
   "name": "event-pet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ladesp.github.io/toevent/",
+  "homepage": "https://ladesp.github.io/ToEvent/",
   "dependencies": {
     "@sendgrid/mail": "^6.3.1",
     "axios": "^0.18.0",

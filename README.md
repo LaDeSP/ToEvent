@@ -13,7 +13,7 @@ O ToEvent é um sistema PWA focado em gerenciar eventos. As funcionalidades que 
 * Controle de frequência;
 * Geração de relatórios.
 
-![Logo do Sistema](https://github.com/LaDeSP/ToEvent/blob/master/public/logo.png?raw=true)
+![Logo do Sistema](https://github.com/LaDeSP/ToEvent/blob/master/public/toEvent.png?raw=true)
 
 O ToEvent utilizou os Third Party: 
 

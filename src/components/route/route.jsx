@@ -37,7 +37,7 @@ class Router extends Component {
     return (
         <BrowserRouter>
             <Switch>
-                <Route path="/pet-event/" exact={true} render={ 
+                <Route path="/ToEvent/" exact={true} render={ 
                   (props) => <Description isLoggedIn={ this.state.isLoggedIn } {...props} /> 
                 }/>
 
@@ -45,7 +45,7 @@ class Router extends Component {
                   (props) => <UserRoute reload={ this.reload } user={ this.state.user } {...props}/>
                 }/>
 
-                <Route path="/pet-event/users/" render={ 
+                <Route path="/ToEvent/users/" render={ 
                   (props) => <UserRoute reload={ this.reload } user={ this.state.user } {...props}/>
                 }/>
                 
