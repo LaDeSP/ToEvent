@@ -287,7 +287,7 @@ export default class Login extends Component{
 
                         <hr className="my-4"></hr>
                         <Textarea id="allergy" name="Intolerância/Alergia" onChange={ this.inputChange } value={ this.state.form.allergy }/>
-                        <Textarea id="deficiency" name="Deficiência" onChange={ this.inputChange } value={ this.state.form.deficiency }/>
+                        <Textarea id="deficiency" name="Necessidades Especiais" onChange={ this.inputChange } value={ this.state.form.deficiency }/>
 
                         <hr className="my-4"></hr>
                         <Error { ...this.state.inscriptionState }/>
