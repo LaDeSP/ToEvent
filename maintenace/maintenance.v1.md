@@ -10,10 +10,6 @@
 
 Se houver qualquer inconsistência no manual, crie um novo documento. 
 
-<h1 class="someclass" id="someid" markdown="1">
-    Insert markdown here
-</h1>
-
 # Manual de manutenção
 
 Com o intuito de utilizar o sistema toEvent para diversos eventos dentro da UFMS, foi escrito esse manual de manutenção. As ferramentas que precisam estar instaladas para executar o projeto base são: [Nodejs](https://nodejs.org/en/) e [NPM](https://www.npmjs.com/) (a instalação do Nodejs e NPM são feitos no mesmo executável). O site para baixar o Nodejs é o seguinte: https://nodejs.org/en/.
@@ -26,7 +22,9 @@ Depois de instalar as ferramentas necessárias e criar as contas, é necessário
 
 * Adicione um projeto;
 
-![Adicionar um projeto](https://github.com/LaDeSP/ToEvent/blob/master/maintenace/addProject_firebase.png?raw=true)
+<div style="display: -webkit-flex; display: flex; -webkit-align-items: center; align-items: center; -webkit-justify-content: center;justify-content: center;" markdown="1">
+    ![Adicionar um projeto](https://github.com/LaDeSP/ToEvent/blob/master/maintenace/addProject_firebase.png?raw=true)
+</div>
 
 * Coloque o nome do projeto;
 
