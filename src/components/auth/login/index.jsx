@@ -126,7 +126,7 @@ export default class Login extends Component{
                         </Input>
                         <hr className="my-4"></hr>
                         <Error { ...this.state.loginState }/>
-                        <Submit id="idLogin"> Entrar </Submit>
+                        <Submit id="idLogin"> Entrarr </Submit>
                     </Loading>
 
                 </form>
