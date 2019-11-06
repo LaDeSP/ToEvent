@@ -43,11 +43,7 @@ class Router extends Component {
 
                 <Route path="/users/" render={ 
                   (props) => <UserRoute reload={ this.reload } user={ this.state.user } {...props}/>
-                }/> 
-
-                <Route path="/ToEvent/users/" render={ 
-                  (props) => <UserRoute reload={ this.reload } user={ this.state.user } {...props}/>
-                }/>          
+                }/>         
                 
                 <Route path='*' render={ 
                   (props) => <Description isLoggedIn={ this.state.isLoggedIn } {...props} /> 
