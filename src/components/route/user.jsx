@@ -188,7 +188,7 @@ export default class UserRoute extends Component {
     render(){
         if(this.state.quit)
             return <Redirect to={{
-                pathname: "/pet-event/",
+                pathname: "/ToEvent/",
             }}/>
         
         switch(this.state.user.type){

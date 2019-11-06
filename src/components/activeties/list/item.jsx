@@ -46,6 +46,8 @@ export const ItemGroupContent = ( props ) => {
     return (
         <div className={ className } id={ itemId } role="tabpanel" aria-labelledby="list-home-list">
             <p>{ props.description }</p>
+            <p>{ props.resume }</p>
+            <p>{ props.pergunta }</p>
             { props.type !== "ALL" ? inscriptionButton : null }
             { props.vacancies ? (
                 <div>
@@ -131,7 +133,7 @@ export const ItemGroupContentAdministrator = (props) => {
                         props.handleActivity(props.activityName)
                     } } className="mr-1 button-none" data-toggle="modal" data-target="#plusVacancyModal">
                         <i className="fas mr-1 fa-plus"></i>
-                        Aumentar Vagas
+                        Editar Vagas
                     </a>
                 </span>
             ) : Null }

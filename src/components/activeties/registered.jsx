@@ -62,6 +62,8 @@ export default class ActivetiesRegistered extends Component {
                     key={ index }
                     title={ activity.name }
                     description={ activity.description }
+                    resume={ activity.resume }
+                    pergunta={ activity.pergunta }
                     id={ index }
                     vacancies={ activity.vacancies }
                     hasInscription={ hasInscription }

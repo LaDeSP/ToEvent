@@ -3,60 +3,59 @@ import React from 'react'
 const Markdown = (props) => {
     return (
         <div className="markdown p-3">
-            <h1> <strong>XXI Semana da Matemática – 4 a 7 de dezembro/2018.</strong> </h1>
+            <h1> <strong>XVII InterPET – Encontro dos Grupos do Programa de Educação Tutorial da UFMS de 15 a 16 de novembro/2019.</strong> </h1>
             <p>
-                A <strong>XXI Semana de Matemática</strong> tem como objetivo principal a criação de um ambiente onde estudantes das escolas públicas e privadas, educadores, acadêmicos, professores da universidade e a comunidade em geral possam interagir, trocando experiências profissionais e conhecimentos matemáticos.
+            O <strong>XVII InterPET - Encontro dos Grupos do Programa de Educação Tutorial da UFMS</strong> acontece nos dias 15 e 16 de novembro, no Câmpus do Pantanal, e tem como tema: "Grupos de Programa de Educação Tutorial e o compromisso com os Objetivos de Desenvolvimento Sustentável (ODS) da ONU".
             </p>
             <p>
-                Nesta edição pretende-se promover o curso de Licenciatura em Matemática da instituição por meio da discussão de assuntos relacionados ao ensino da Matemática, suas tecnologias e a formação de profissionais na área da Licenciatura em Matemática por meio do Programa Institucional de Bolsas de Iniciação a Docência (Pibid) e o Programa de Residência Pedagógica (RP). Procura-se também favorecer a aproximação dos acadêmicos com as escolas da Educação Básica e com professores da disciplina da Matemática.
+            O InterPET é um evento orientado por procedimentos e estratégias metodológicas definidas pela Comissão Executiva Nacional do PET - CENAPET, que consiste na realização de palestra, conferência, mesa-redonda/grupos de discussão e trabalho (GDT), reuniões de tutores e de petianos, e assembleia geral.
             </p>
             <p>
-                Em sua programação, o evento conta com palestrantes, minicursos, oficinas e exposição de trabalhos desenvolvidos pelos alunos e relacionados com a Matemática e o ensino da Matemática nas escolas de educação básica. O evento deve ser também um momento de socialização e integração entre os acadêmicos do curso de graduação, docentes das universidades, alunos da pós-graduação, alunos e professores de escolas da Educação Básica.
+            Os ODS são 17 metas propostas pela ONU que fazem parte da Agenda 2030 e abrangem diferentes temas que tratam do desenvolvimento social e econômico, como pobreza, fome, saúde, educação, aquecimento global, igualdade de gênero, água, saneamento, energia, urbanização, meio ambiente e justiça social.
+            </p>
+            <p>
+            Os Grupos PET realizam atividades de ensino, pesquisa e extensão, contribuindo com a formação dos acadêmicos participantes e com a promoção de melhorias nos cursos de graduação em que atuam. O desenvolvimento técnico-científico e sócio-cultural dos petianos é também frequentemente compartilhado com o público externo à Universidade, através de serviços, produtos e saberes. 
+            </p>
+            <p>
+            Considerando a relevância das propostas da ONU e a caracterização dos compromissos do PET frente à sociedade, faz-se necessário compartilhar ações que os Grupos têm realizado e discutir de que forma estas podem contribuir para o cumprimento dos Objetivos.
             </p>
             <ul>
                 <li> 
-                    As inscrições poderão ser realizadas até o dia 04/12/2018 na Coordenação do Curso de Matemática (Espaço Multiuso – Sala 1 – Unid. I) ou na Sala H-227 (Unid. I) ou na Sala 5 (Unid. II) com os acadêmicos ANDRESSA BRITTES, Contato: 99929-0565; ARIEL DA SILVA COSTA, Contato: 99830-2296; DANIELLE VELASQUEZ, Contato: 99121-9825; DANIEL SOUZA, Contato: 99695-8925 ou ILMA DANIELLE, Contato: 98437-2330.
+                GDT - 1: “Grupos PET e a produção de inovação"
+                <p>
+                Este grupo de discussão e trabalho tem como proposta o debate sobre a produção acadêmica e científica, que leva cada vez mais em consideração a produção de inovação. Nesse contexto, os grupos PET, que articulam ensino, pesquisa e extensão, devem considerar a inovação em suas atividades. 
+                <p><strong>Pergunta motivadora:</strong> Como é possível conciliar os grupos PET e a produção de inovação?</p>
+                </p>
                 </li>
-            
-                <li>
-                    As inscrições poderão ser realizadas até o dia 04/12/2018 na Coordenação do Curso de Matemática (Espaço Multiuso – Sala 1 – Unid. I) ou na Sala H-227 (Unid. I) ou na Sala 5 (Unid. II) com os acadêmicos ANDRESSA BRITTES, Contato: 99929-0565; ARIEL DA SILVA COSTA, Contato: 99830-2296; DANIELLE VELASQUEZ, Contato: 99121-9825; DANIEL SOUZA, Contato: 99695-8925 ou ILMA DANIELLE, Contato: 98437-2330.
+                <li> 
+                GDT - 2: “Formação preparatória e continuada de petianos e tutores"
+                <p>
+                O presente grupo de discussão e trabalho tem como meta propiciar a reflexão e debate sobre a importância da formação preparatória e continuada de petianos e seustutores, acerca do conjunto de leis que amparam a existência dos grupos, o Manual de Orientações e os documentos produzidos pelo CENAPET, analisando de que forma essa estratégia pode subsidiar os fundamentos do Programa, fortalecendo a sua manutenção.
+                <p><strong>Pergunta motivadora:</strong> De que maneira a formação preparatória e continuada de petianos e tutores pode contribuir para o fortalecimento dos grupos ?</p>
+                </p>
                 </li>
-                <li>
-                    As inscrições poderão ser realizadas até o dia 04/12/2018 na Coordenação do Curso de Matemática (Espaço Multiuso – Sala 1 – Unid. I) ou na Sala H-227 (Unid. I) ou na Sala 5 (Unid. II) com os acadêmicos ANDRESSA BRITTES, Contato: 99929-0565; ARIEL DA SILVA COSTA, Contato: 99830-2296; DANIELLE VELASQUEZ, Contato: 99121-9825; DANIEL SOUZA, Contato: 99695-8925 ou ILMA DANIELLE, Contato: 98437-2330.
+                <li> 
+                GDT - 3: "Grupos PET: atividades interdisciplinares e integradoras"
+                <p>
+                O presente grupo de discussão e trabalho tem por objetivo debater sobre o processo interdisciplinar entre os diversos grupos PET e seus cursos, possibilitando uma reflexão sobre as atividades que estão sendo executadas e as contribuições da integração para os grupos.                
+                <p><strong>Pergunta motivadora:</strong> Como favorecer atividades interdisciplinares e integradoras nos grupos PET?</p>
+                </p>
                 </li>
-                <li>
-                    As inscrições poderão ser realizadas até o dia 04/12/2018 na Coordenação do Curso de Matemática (Espaço Multiuso – Sala 1 – Unid. I) ou na Sala H-227 (Unid. I) ou na Sala 5 (Unid. II) com os acadêmicos ANDRESSA BRITTES, Contato: 99929-0565; ARIEL DA SILVA COSTA, Contato: 99830-2296; DANIELLE VELASQUEZ, Contato: 99121-9825; DANIEL SOUZA, Contato: 99695-8925 ou ILMA DANIELLE, Contato: 98437-2330.
+                <li> 
+                GDT - 4: "Grupos PET: resultados, sistematização e produção de indicadores"
+                <p>
+                Este grupo de discussão e trabalho tem como meta propor um diálogo acerca da sistematização de atividades e ações dos Grupos, que podem permitir o desenvolvimento de uma base de dados comum, que reúna os principais resultados alcançados com o desenvolvimento de cada uma das atividades, de forma que isso configure um conjunto de indicadores de produção dos grupos PET da UFMS.                
+                <p><strong>Pergunta motivadora:</strong> desenvolvimento de uma base de dados comum aos Grupos PET, que contenha resultados de atividades por eles desenvolvidas, se mostra viável/relevante? </p>
+                </p>
                 </li>
-                <li>
-                    As inscrições poderão ser realizadas até o dia 04/12/2018 na Coordenação do Curso de Matemática (Espaço Multiuso – Sala 1 – Unid. I) ou na Sala H-227 (Unid. I) ou na Sala 5 (Unid. II) com os acadêmicos ANDRESSA BRITTES, Contato: 99929-0565; ARIEL DA SILVA COSTA, Contato: 99830-2296; DANIELLE VELASQUEZ, Contato: 99121-9825; DANIEL SOUZA, Contato: 99695-8925 ou ILMA DANIELLE, Contato: 98437-2330.
-                </li>
-                <li>
-                    As inscrições poderão ser realizadas até o dia 04/12/2018 na Coordenação do Curso de Matemática (Espaço Multiuso – Sala 1 – Unid. I) ou na Sala H-227 (Unid. I) ou na Sala 5 (Unid. II) com os acadêmicos ANDRESSA BRITTES, Contato: 99929-0565; ARIEL DA SILVA COSTA, Contato: 99830-2296; DANIELLE VELASQUEZ, Contato: 99121-9825; DANIEL SOUZA, Contato: 99695-8925 ou ILMA DANIELLE, Contato: 98437-2330.
+                <li> 
+                GDT - 5: "Grupos PET e compromisso social"
+                <p>
+                O grupo de discussão e trabalho tem o intuito de fomentar o debate a respeito de como se dão as ações dos grupos PET quanto ao compartilhamento de saberes e serviços desenvolvidos pela universidade com a comunidade externa, tendo em vista as demandas sociais.                
+                <p><strong>Pergunta motivadora:</strong> Como as ações desenvolvidas pelos grupos PETs têm considerado o compromisso social? </p>
+                </p>
                 </li>
             </ul>
-            <h2> <strong> DATA: 06/12/2018 – QUINTA-FEIRA </strong> </h2>
-            <table className="table table-striped table-bordered">
-                <thead>
-                    <tr>
-                    <th>HORÁRIO</th>
-                    <th>ATIVIDADE</th>
-                    <th>CONVIDADOS</th>
-                    <th>LOCAL</th>
-                    <th>VAGAS</th>
-                    <th>CH</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                    <td>10h – 12h 14h – 16h</td>
-                    <td>Credenciamento</td>
-                    <td>–</td>
-                    <td>Corredor H-108 (Unid. I)</td>
-                    <td>–</td>
-                    <td>4 h</td>
-                    </tr>
-                </tbody>
-            </table>
         </div>
     )
 }
