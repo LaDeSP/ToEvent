@@ -26,7 +26,7 @@
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "ToEvent"
   },
   "browserslist": [
     ">0.2%",
