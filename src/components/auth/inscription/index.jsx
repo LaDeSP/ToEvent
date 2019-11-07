@@ -40,11 +40,11 @@ export default class Login extends Component{
                 course: InitialInput,
                 contact: InitialInput,
                 emergencyContact: InitialInput,
-                group: 'Três Lagoas - Conexões de Saberes Matemáticos',
+                group: 'Corumbá - PET Conexões',
                 gender: 'Feminino',
                 ethnicity: 'Branco',
-                arrivalDate: '22/03/2018',
-                departureDate: '23/03/2018',
+                arrivalDate: '22/03/2019',
+                departureDate: '23/03/2019',
                 allergy: '',
                 deficiency: '',
                 type: InscriptionType
@@ -218,14 +218,6 @@ export default class Login extends Component{
 
                         <hr className="my-4"></hr>
                         <Select name="Grupo" id="group" value={ this.state.form.group } onChange={ this.inputChange }>
-                            <Option>Três Lagoas - Conexões de Saberes Matemáticos</Option>
-                            <Option>Três Lagoas - Geografia</Option>
-                            <Option>Três Lagoas - Enfermagem</Option>
-                            <Option>Três Lagoas - História</Option>
-                            <Option>Três Lagoas - Matemática</Option>
-
-                            <Option>Chapadão do Sul - Agronomia e Engenharia Florestal</Option>
-
                             <Option>Campo Grande - Farmácia</Option>
                             <Option>Campo Grande - Zootecnia</Option>
                             <Option>Campo Grande - Química</Option>
@@ -235,10 +227,22 @@ export default class Login extends Component{
                             <Option>Campo Grande - Ciência da Computação</Option>
                             <Option>Campo Grande - Sistemas</Option>
 
+                            <Option>Chapadão do Sul - Agronomia e Engenharia Florestal</Option>
+
+                            <Option>Corumbá - PET Conexões</Option>
+
                             <Option>Ponta Porã - Fronteira</Option>
                             <Option>Ponta Porã - Conexões de Saberes Matemática</Option>
 
                             <Option>Naviral - Pedagogia e Ciência Sociais</Option>
+                            
+                            
+                            <Option>Três Lagoas - Conexões de Saberes Matemáticos</Option>
+                            <Option>Três Lagoas - Geografia</Option>
+                            <Option>Três Lagoas - Enfermagem</Option>
+                            <Option>Três Lagoas - História</Option>
+                            <Option>Três Lagoas - Matemática</Option>
+                            
                         </Select>
                         <Select name="Sexo" id="gender" value={ this.state.form.gender } onChange={ this.inputChange }>
                             <Option>Feminino</Option>
@@ -253,12 +257,12 @@ export default class Login extends Component{
                             <Option>Cafuzo</Option>
                         </Select>
                         <Select name="Data de Chegada" id="arrivalDate" value={ this.state.form.arrivalDate } onChange={ this.inputChange }>
-                            <Option>22/03/2018</Option>
-                            <Option>23/03/2018</Option>
+                            <Option>22/03/2019</Option>
+                            <Option>23/03/2019</Option>
                         </Select>
                         <Select name="Data de Saída" id="departureDate" value={ this.state.form.departureDate } onChange={ this.inputChange }>
-                            <Option>23/03/2018</Option>
-                            <Option>24/03/2018</Option>
+                            <Option>23/03/2019</Option>
+                            <Option>24/03/2019</Option>
                         </Select>
 
                         <hr className="my-4"></hr>
