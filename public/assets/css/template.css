@@ -116,3 +116,8 @@ body {
     outline: inherit;
     text-decoration: none;
 }
+
+
+.container{
+    overflow: auto;
+}
