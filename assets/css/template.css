@@ -10,11 +10,13 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     backdrop-filter: blur(15px);
+    overflow: scroll !important;
+    z-index: 0 !important;
 }
   
 .login,
 .image {
-    min-height: 100vh;
+    min-height: 100%;
 }
   
 .bg-image {
@@ -117,7 +119,6 @@ body {
     text-decoration: none;
 }
 
-
-.container{
-    overflow: auto;
+.modal-backdrop .fade .show{
+    Height: 100%;
 }
