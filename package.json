@@ -5,7 +5,7 @@
   "homepage": "https://ladesp.github.io/ToEvent/",
   "dependencies": {
     "@sendgrid/mail": "^6.3.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "downloadjs": "^1.4.7",
     "firebase": "^5.8.6",
     "gh-pages": "^2.0.1",
